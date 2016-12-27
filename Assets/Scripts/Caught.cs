@@ -9,6 +9,7 @@ public class Caught : MonoBehaviour {
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.transform.tag == "Player")
-        collision.transform.position = spawnPoint;
+            //collision.transform.position = spawnPoint;
+            Application.LoadLevel(0);
     }
 }

@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.315 seconds
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.077079 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.438882 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 0.219860 ms (FindLiveObjects: 0.041904 ms CreateObjectMapping: 0.025980 ms MarkObjects: 0.120685 ms  DeleteObjects: 0.022069 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461790 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 252.
+Total: 0.210641 ms (FindLiveObjects: 0.043301 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.089117 ms  DeleteObjects: 0.043580 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10c4 -> priority: 1 
