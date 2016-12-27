@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.421 seconds
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.389689 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c40 -> priority: 1 
