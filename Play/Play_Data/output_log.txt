@@ -17,7 +17,7 @@ Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Ma
 Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.315 seconds
+- Completed reload, in  0.139 seconds
 Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.dll (this message is harmless)
 desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
@@ -25,18 +25,181 @@ desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.077079 ms
+UnloadTime: 2.098311 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.438882 ms
+UnloadTime: 0.490565 ms
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 276.
-Total: 0.219860 ms (FindLiveObjects: 0.041904 ms CreateObjectMapping: 0.025980 ms MarkObjects: 0.120685 ms  DeleteObjects: 0.022069 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.404800 ms (FindLiveObjects: 0.046374 ms CreateObjectMapping: 0.025701 ms MarkObjects: 0.301155 ms  DeleteObjects: 0.022069 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.917767 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.333282 ms (FindLiveObjects: 0.046095 ms CreateObjectMapping: 0.027377 ms MarkObjects: 0.236342 ms  DeleteObjects: 0.014247 ms)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ja\Documents\Gra ĹšwiÄ…teczna\Play\Play_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.962539 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.474082 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.353676 ms (FindLiveObjects: 0.046374 ms CreateObjectMapping: 0.025980 ms MarkObjects: 0.257015 ms  DeleteObjects: 0.015085 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.964801 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.330768 ms (FindLiveObjects: 0.047492 ms CreateObjectMapping: 0.028215 ms MarkObjects: 0.231593 ms  DeleteObjects: 0.014247 ms)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Cannot open socket on ip {*} and port {7777}; check please your network, most probably port has been already occupied
+ 
+(Filename:  Line: 488)
+
+StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.461790 ms
+UnloadTime: 1.213841 ms
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 252.
-Total: 0.210641 ms (FindLiveObjects: 0.043301 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.089117 ms  DeleteObjects: 0.043580 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.486933 ms (FindLiveObjects: 0.047212 ms CreateObjectMapping: 0.027377 ms MarkObjects: 0.389714 ms  DeleteObjects: 0.013409 ms)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Cannot open socket on ip {*} and port {7777}; check please your network, most probably port has been already occupied
+ 
+(Filename:  Line: 488)
+
+StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Cannot open socket on ip {*} and port {7777}; check please your network, most probably port has been already occupied
+ 
+(Filename:  Line: 488)
+
+StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Cannot open socket on ip {*} and port {7777}; check please your network, most probably port has been already occupied
+ 
+(Filename:  Line: 488)
+
+StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 10c4 -> priority: 1 
+  Thread -> id: ccc -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370158 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.653155 ms (FindLiveObjects: 0.073193 ms CreateObjectMapping: 0.029053 ms MarkObjects: 0.527441 ms  DeleteObjects: 0.013688 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510958 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.543365 ms (FindLiveObjects: 0.066488 ms CreateObjectMapping: 0.036038 ms MarkObjects: 0.341104 ms  DeleteObjects: 0.016761 ms)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.426590 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.486654 ms (FindLiveObjects: 0.048050 ms CreateObjectMapping: 0.027657 ms MarkObjects: 0.388317 ms  DeleteObjects: 0.013130 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342780 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.532749 ms (FindLiveObjects: 0.053358 ms CreateObjectMapping: 0.027657 ms MarkObjects: 0.429104 ms  DeleteObjects: 0.013130 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.676063 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.462907 ms (FindLiveObjects: 0.050565 ms CreateObjectMapping: 0.027657 ms MarkObjects: 0.358146 ms  DeleteObjects: 0.015644 ms)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player 1 2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2774 -> priority: 1 
